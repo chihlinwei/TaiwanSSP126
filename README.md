@@ -1,5 +1,5 @@
 ---
-title: "Data package for seafloor climage change (TaiwanSSP126)"
+title: "Data package for seafloor climate change in Taiwan EEZ (TaiwanSSP126)"
 author: "Chih-Lin Wei"
 date: "2025-03-04"
 output: 
@@ -38,4 +38,4 @@ GNU Affero General Public License v3.0
 
 ### Citation
 
-Chih-Lin Wei. (2024). chihlinwei/TaiwanSSP126: Data package for seafloor climage change (TaiwanSSP126) (v1.0.0). Zenodo. https://doi.org/
+Chih-Lin Wei. (2024). chihlinwei/TaiwanSSP126: Data package for seafloor climate change in Taiwan EEZ (TaiwanSSP126) (v1.0.0). Zenodo. https://doi.org/
