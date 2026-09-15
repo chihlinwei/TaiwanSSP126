@@ -38,4 +38,4 @@ GNU Affero General Public License v3.0
 
 ### Citation
 
-Chih-Lin Wei. (2024). chihlinwei/TaiwanSSP126: Data package for seafloor climate change in Taiwan EEZ (TaiwanSSP126) (v1.0.0). Zenodo. https://doi.org/
+Chih-Lin Wei. (2026). chihlinwei/TaiwanSSP126: Data package for seafloor climate change in Taiwan EEZ (TaiwanSSP126) (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22763783
